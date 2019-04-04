@@ -1,2 +1,2 @@
 # TIG059projekt
-Detta är grupps 6 android-projektet
+Detta är grupp 6 android-projektet
